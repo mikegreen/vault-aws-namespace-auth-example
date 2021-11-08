@@ -1,0 +1,1 @@
+# vault-aws-namespace-auth-example
